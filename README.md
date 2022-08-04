@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @KRJB
-- 👀 I’m interested in coading
+- 👋 Hello everyone! 👋 My Name is Khalil REJEB
 - 🌱 I’m currently learning HTML & CSS & JS 
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me khalilrejeb0@gmail.com    
