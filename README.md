@@ -44,6 +44,7 @@
     </kbd>
 </p>
 
+![Khalil REJEB's github stats](https://github-readme-stats.vercel.app/api?username=KRJB&show_icons=true&theme=buefy)
 
 
 
