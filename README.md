@@ -18,7 +18,6 @@
         <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
         <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8DD6F9?style=flat-square&logo=Bootstrap&logoColor=white" />
         <img src="https://img.shields.io/badge/-MATERIALUI-E34F26?style=flat-square&logo=MATERIALUI&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-TAILWINDCSS-1572B6?style=flat-square&logo=TAILWINDCSS&logoColor=white"/>
     </kbd>
     <kbd>
         <kbd>Back-end & DB</kbd>
