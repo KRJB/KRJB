@@ -45,7 +45,7 @@
 </p>
 
 ![Khalil REJEB's github stats](https://github-readme-stats.vercel.app/api?username=KRJB&show_icons=true&theme=buefy)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRJB&show_icons=true&theme=buefy&layout=compact)](https://github.com/KRJB/github-readme-stats)
 
 
 <!---
