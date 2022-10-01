@@ -47,6 +47,11 @@
 ![Khalil REJEB's github stats](https://github-readme-stats.vercel.app/api?username=KRJB&show_icons=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRJB&show_icons=true&theme=buefy&layout=compact)](https://github.com/KRJB/github-readme-stats)
 
+ **Contact me via LinkedIn**
+ 
+ <a href="https://www.linkedin.com/in/khalilrejeb/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
 <!---
 KRJB/KRJB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
